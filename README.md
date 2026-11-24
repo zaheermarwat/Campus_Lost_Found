@@ -4,12 +4,12 @@ A web based system for campus students to report lost items, report found items,
 
 Instead of posting in WhatsApp groups or putting paper notices on walls, students can now report and find items online.
 
-Live Demo: https://campus-lost-found.onrender.com
+Live Demo: https://zaheerullah1.pythonanywhere.com
 
 ## Features
 
 - Login with Name and Roll Number
-- Report Lost Item with name, category, location, date and description
+- Report Lost Item name, category, location, date and description
 - Report Found Item so the owner can find it
 - Search and browse all lost and found items
 - Dashboard to see total Lost, Found, Claimed and Pending items
